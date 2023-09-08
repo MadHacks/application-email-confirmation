@@ -1,0 +1,3 @@
+* we should be handling bounce & complaint
+  * think this is required by AWS but I think we can manually handle these because we're super small scale
+  * we should still have bounce logic incase someone starts submitting tons of fake emails to us

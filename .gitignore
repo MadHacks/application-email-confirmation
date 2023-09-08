@@ -1,0 +1,28 @@
+lambda_function_payload.zip
+node_modules
+
+# Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# Crash log files
+crash.log
+
+# Ignore any .tfvars files, which could contain sensitive information
+*.tfvars
+
+# Ignore override files as they can contain sensitive information
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.rc
+
+# Ignore all the .terraform directories
+**/.terraform/*
